@@ -1,3 +1,3 @@
 MonBlogMVC
 ==========
-Blog PHP rspectant le modele MVC
+Mon Blog PHP rspectant le modele MVC
